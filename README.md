@@ -1,8 +1,8 @@
 <h1> Oii, Sou Brenno🎓 </h1>
 
 <div align="center" display="inline">
-<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" width="480"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img width="480"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <br>
