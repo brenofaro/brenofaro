@@ -1,5 +1,5 @@
 <h1> Oii, Sou Brenno🎓 </h1>
-<div align="center" display="inline-block">
+<div align="center" display="inline">
 <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
 </div>
