@@ -13,9 +13,12 @@
 </div>
 <br>
 <p>🖥 Aprimorando o conhecimento sobre Python</p>
-
 ![python-icon](https://user-images.githubusercontent.com/94204696/166963342-bed67d4e-09eb-4e55-873e-05b51431ea3a.png)
-
+<br>
+<p> 🖥 Experiência com as linguagens de programação
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <div>
   <a href="https://instagram.com/breno_faro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brenofaro97@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
