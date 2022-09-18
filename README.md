@@ -13,9 +13,9 @@
 </div>
 <br>
 <p>🖥 Aprimorando o conhecimento sobre Python</p>
-<br>
-<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
-<br>
+
+<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
+
 <p> 🖥 Experiência com as linguagens de programação
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
