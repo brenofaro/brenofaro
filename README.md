@@ -13,7 +13,8 @@
 </div>
 <br>
 <p>🖥 Aprimorando o conhecimento sobre Python</p>
-![python-icon](https://user-images.githubusercontent.com/94204696/166963342-bed67d4e-09eb-4e55-873e-05b51431ea3a.png)
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
 <br>
 <p> 🖥 Experiência com as linguagens de programação
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
