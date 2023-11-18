@@ -3,6 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     - cron: '0 0 * * *'  # Executa o trabalho todos os dias à meia-noite UTC (ajuste o fuso horário conforme necessário)
+  workflow_dispatch:  # Permite acionamento manual do fluxo de trabalho
 
 jobs:
   build:
