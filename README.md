@@ -1,22 +1,18 @@
 <h1> Oii, Sou Brenno🎓 </h1>
 
 <div align="center" display="inline">
-<img width="456.922" height="180" src="https://github-readme-stats-git-master-brenofaro.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img width="370.578" height="180" src="https://github-readme-stats-git-master-brenofaro.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
-<br>
-<p>🌱 Atualmente aprendendo Java</p>
-<div align="left">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="180em" src="https://github-readme-stats-git-master-brenofaro.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-master-brenofaro.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br>
-<p>🖥 Aprimorando o conhecimento sobre Python</p>
 
-<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
+
+  
 
 <p> 🖥 Experiência com as linguagens de programação
   <br><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
