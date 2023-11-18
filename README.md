@@ -6,8 +6,8 @@
 </div>
 <br>
 
+![Snake animation](https://github.com/brenofaro/brenofaro/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
-  
 
 <p> 🖥 Experiência com as linguagens de programação
   <br><br>
@@ -21,6 +21,8 @@
 <div>
   <a href="https://instagram.com/breno_faro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brenofaro97@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/brenno-faro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+  
 </div>
 
-![Snake animation](https://github.com/brenofaro/brenofaro/blob/output/github-contribution-grid-snake.svg)
+
