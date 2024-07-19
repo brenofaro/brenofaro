@@ -1,8 +1,8 @@
 <h1> Oii, Sou Brenno🎓 </h1>
 <p>Apaixoado em programação, dando o meu melhor e sempre buscando aprender mais🚀</p>
 <div align="center" display="inline">
-<img height="180em" src="https://github-readme-stats-git-master-brenofaro.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-git-master-brenofaro.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br>
 
