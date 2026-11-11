@@ -2,8 +2,8 @@
 <p>Desenvolvedor, granduando em Ciência da computação na Universidade Federal de Sergipe 🎓</p>
 <p>Apaixonado em programação, dando o meu melhor e sempre buscando aprender mais🚀</p>
 <div align="center" display="inline">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brenofaro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brenofaro&layout=compact&langs_count=7&theme=gotham"/>
+<img height="200em" src="https://github-stats-extended.vercel.app/api?username=brenofaro&rank_icon=github&include_all_commits=true&theme=dark_github"/>
+<img height="200m" src="https://github-stats-extended.vercel.app/api/top-langs?username=brenofaro&langs_count=4&theme=dark_github"/>
 </div>
 <br>
 
